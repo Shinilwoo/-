@@ -49,4 +49,5 @@
 
 🤝|조원|5명|  
 ✅|담당|팀장,데이터베이스 부관리자, 게시판,관리자 페이지, 파일등록, 개인정보 수정 담당|   
-🛠️|주요기술|Java,Spring boot, Mysql, MyBatis,Javascript,Ajax,html,css
+🛠️|주요기술|JavaScript, HTML, CSS, AJAX, Thymeleaf Java, Spring Boot, Eclipse, MySQL , Notion, Slack, GitHub, GCP
+
