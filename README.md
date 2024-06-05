@@ -38,7 +38,7 @@
 ✅|담당|라이센스를 확인하고 라이브러리를 사용하는것|  
 🛠️|주요기술|visual studio,c
 
-### 📝 3.[장고로 치매 노인을 위한 웹사이트](https://ddunos.github.io/CareFit/)  
+### 📝 3.[장고로 치매 노인을 위한 웹사이트](https://ddunos.github.io/CareFit/)  <sub><sup><span style=" color:gray;">(사이트로 이동)</span></sub></sup>[깃허브](https://github.com/Shinilwoo/carefit.git)
  “Care Fit”은 기관에서 보호사들이 노인치매환자를 대상으로 사용할 수 있는 디지털 콘텐츠 플랫폼입니다. 치매간이 테스트를 진행하고, 회원정보를 DB에 저장하여 회원의 치매레벨과 차트를 관리할 수 있습니다. 
  또한 치매라는 질병에 가장 중요한 부분인 인지능력을 활성화 하는 게임 프로그램을 추가하여 보호사들이 노인 치매예방활동 교육용으로 사용할 수 있는데 분할화면 기능으로 mobile, pc, tablet, tv monitor와 같은 다양한 화면에 호환이 가능하여, 시간과 공간의 제약 없이 편리하게 활용 할 수 있습니다.  
 
