@@ -22,10 +22,10 @@
 - 서버 라즈베리파이 tcp/ip   
   지문인식, qr코드, pet 정보 등을 받아 저장 후 엘리베이터에 전달
   
-🤝|조원|4명| 
-⏰|개발기간|2023.03.02~2023.06.20(약 3개월)
-✅|담당|안드로이드 스튜디오로 라즈베리파이 연동해서 OR코드 생성 및 아두이노 연결 qr코드 인식|  
-🛠️|주요기술|Java,Android Studio,Arduino,Raspberri pi,python  아두이노uno 지문인식기, 안드로이드 스튜디오, 아두이노 QR스캐너, 아두이노 7segment, 잿슨나노, YOLOv5 web cam
+🤝|조원|4명|   
+⏰|개발기간|2023.03.02~2023.06.20(약 3개월)  
+✅|담당|안드로이드 스튜디오로 라즈베리파이 연동해서 OR코드 생성 및 아두이노 연결 qr코드 인식|   
+🛠️|주요기술|Java,Android Studio,Arduino,Raspberri pi,python  아두이노uno 지문인식기, 안드로이드 스튜디오, 아두이노 QR스캐너, 아두이노 7segment, 잿슨나노, YOLOv5 web cam  
 
 ### 📝 2.[오픈소스 라이브러리](https://github.com/Shinilwoo/game-test.git)  
 라이브러리를 활용한 행맨게임과 리듬게임    
@@ -48,11 +48,11 @@
 - 관리자의 일반사용자 정보 확인페이지
 - 모션인식 게임  
 
-🤝|조원|4명|  
-⏰|개발기간|2023.09.05~2023.12.04(약 3개월)
+🤝|조원|4명|   
+⏰|개발기간|2023.09.05~2023.12.04(약 3개월)  
 ✅|담당|치매확인을 위한 검사와 일반사용자와 관리사용자로 나눈 가입폼 및 정보 확인폼  
-<sup><span style=" color:gray;">[게임 이외의 부분을 합친 코드](https://github.com/Shinilwoo/gg.git)</span></sub>  
-🛠️|주요기술|python,Django,html,css
+[게임 이외의 부분을 합친 코드](https://github.com/Shinilwoo/gg.git)  
+🛠️|주요기술|python,Django,html,css  
 
 ### 📝 4.[spring boot로 행사 정보 사이트](https://github.com/Shinilwoo/KD3_B_Project.git)   
 행사와 예술인의 투자정보를 모아 볼 수 있는 사이트    
@@ -75,8 +75,8 @@
 2. 관심등록
 3. 게시물의 상세 링크로 연결   
 
-🤝|조원|5명|  
-⏰|개발기간|2024.03.05~2024.04.19(약 6주)
-✅|담당|팀장,데이터베이스 부관리자, 게시판,관리자 페이지, 파일등록, 개인정보 수정 담당|   
-🛠️|주요기술|JavaScript, HTML, CSS, AJAX, Thymeleaf Java, Spring Boot, Eclipse, MySQL , Notion, Slack, GitHub, GCP
+🤝|조원|5명|   
+⏰|개발기간|2024.03.05~2024.04.19(약 6주)  
+✅|담당|팀장,데이터베이스 부관리자, 게시판,관리자 페이지, 파일등록, 개인정보 수정 담당|    
+🛠️|주요기술|JavaScript, HTML, CSS, AJAX, Thymeleaf Java, Spring Boot, Eclipse, MySQL , Notion, Slack, GitHub, GCP  
 
