@@ -80,3 +80,15 @@
 ✅|담당|팀장,데이터베이스 부관리자, 게시판,관리자 페이지, 파일등록, 개인정보 수정 담당|    
 🛠️|주요기술|JavaScript, HTML, CSS, AJAX, Thymeleaf Java, Spring Boot, Eclipse, MySQL , Notion, Slack, GitHub, GCP  
 
+### 📝 5.[이미지로 영화 분류](https://github.com/Shinilwoo/KD3_movie_project.git)   
+머신러닝으로 이미지를 분류하여 영화를 알아내는 사이트
+💡기능  
+이미지 파일 넣기
+결과 화면
+- 트레일러 링크
+- 유사도 높은순 3개
+
+🤝|조원|5명|   
+⏰|개발기간|2024.06.04~2024.07.09(약 4주)  
+✅|담당|데이터 수집, 모델 수집, 백엔드|    
+🛠️|주요기술|JavaScript, HTML, CSS, AJAX, Thymeleaf Java, Spring Boot, Eclipse, MySQL , Slack, Google Colaboratory, flask, Python
