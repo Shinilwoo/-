@@ -20,7 +20,7 @@
 🤝|조원|4명|   
 ⏰|개발기간|2023.03.02~2023.06.20(약 3개월)  
 ✅|담당|안드로이드 스튜디오로 라즈베리파이 연동해서 OR코드 생성 및 아두이노 연결 qr코드 인식|   
-🛠️|주요 기술|Java,Android Studio,Arduino,Raspberri pi,python  아두이노uno 지문인식기, 안드로이드 스튜디오, 아두이노 QR스캐너, 아두이노 7segment, 잿슨나노, YOLOv5 web cam   
+🛠️|주요 기술|Java,Android Studio,Arduino,Raspberri pi,python  아두이노uno 지문인식기, 아두이노 QR스캐너, 아두이노 7segment, 잿슨나노, YOLOv5 web cam   
 
 |느낀 점|  
 처음 주제를 정할 때 갈피를 잡지 못하고 결국 중간에 주제를 바꾸어 시간이 촉박했으며, 잘 모르는 부분에 대해 어려움을 겪었지만, 공부도 하면서 열심히 임하였습니다.  
