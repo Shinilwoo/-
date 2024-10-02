@@ -15,8 +15,8 @@
 - qr로 층 인식
 - qr코드 공유
   
-![1번 2](https://github.com/Shinilwoo/portfolio/assets/121960362/d7ac8048-b756-49ce-815e-4d56caa27555)
-   
+![1번 2](https://github.com/Shinilwoo/portfolio/assets/121960362/d7ac8048-b756-49ce-815e-4d56caa27555)    
+[코드의 핵심은 노션의 구현부분에 있습니다](https://www.notion.so/111a07bfc6cb8043882bdb6e18889ed2?pvs=4)    
 🤝|조원|4명|   
 ⏰|개발기간|2023.03.02~2023.06.20(약 3개월)  
 ✅|담당|안드로이드 스튜디오로 라즈베리파이 연동해서 OR코드 생성 및 아두이노 연결 qr코드 인식|   
